@@ -1,0 +1,5 @@
+task stage {
+    doLast {
+        println 'compiling source'
+    }
+}
